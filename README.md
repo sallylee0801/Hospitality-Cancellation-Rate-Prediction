@@ -31,7 +31,7 @@ After analysis of data distributions and univariate trends, we identified some f
 6. The length of lead time is positively related to the cancellation rate 
 
 We also built a Random Forest Model with 84% precision, AUC 92% score of ROC curve for both test and train data. Based on our machine learning model, we identified that deposit type, origin of country, lead time, and market segment are the significant features that impact cancellation rates. On the other hand, external factors have a weak impact on cancellation rates. Thus, we will focus on these features when deriving our business strategies.
-<img width="815" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/d3f8298e-606a-44c1-b889-1d627b360e07">
+<img width="870" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/8dec629b-b719-41cf-9163-d0b76f0adc83">
 
 ## Insights: We have identified 4 key features that affect the hospitality cancellation rate:
 1. **Groups and TA/TO have higher cancellation rates** as these agents buy bulk tickets upfront, and the hotel provides more flexible cancellation  policies in contract. The over-pre-order and low opportunity cost lead to a higher cancellation rate.
