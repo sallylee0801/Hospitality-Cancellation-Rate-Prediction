@@ -33,7 +33,7 @@ We also built a Random Forest Model with 84% precision, AUC 92% score of ROC cur
 
 ## Insights: We have identified 4 key features that affect the hospitality cancellation rate:
 1. **Groups and TA/TO have higher cancellation rates** as these agents buy bulk tickets upfront, meanwhile hotel provides more flexible cancellation  policies in contract. The over pre-order and low opportunity cost lead to a higher cancellation rate.
-<img width="720" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/5b9e89de-bea0-4d78-bdd3-96df6efd2121">
+<img width="462" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/f19130e6-3bf6-4ddf-b6d5-f7325c9a8603">
 
 2. **No-Deposit & Refundable deposit type has a lower cancellation rate** as cheaper offers will normally have a no-refund policy. As the price is relatively low, the opportunity cost for clients to cancel isacceptable,  which leads to a higher cancellation rate.
 <img width="246" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/03bf3e3a-fdb2-4d68-a395-355e4199b2da">
