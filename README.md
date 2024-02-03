@@ -9,7 +9,7 @@ Team Members:
 
 The README contains only a brief overview of our goals, investigation process, analysis, and recommendations.
 
-For detailed documentation/analysis/findings, please refer to our [final presentation](https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/blob/main/Hospitality%20Cancellation%20Rate%20Prediction.pdf) and report.
+For detailed documentation/analysis/findings, please refer to our [final presentation](https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/blob/main/Hospitality%20Cancellation%20Rate%20Prediction.pdf).
 ## Business Objective
 We aim to leverage historical data, consider consumer behavior and external factors, and implement machine learning to maximize the hotel's revenue through:
 1. Maximizing the overbook rate by increasing the accuracy of cancellation rate prediction
