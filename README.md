@@ -33,16 +33,16 @@ We also built a Random Forest Model with 84% precision, AUC 92% score of ROC cur
 
 ## Insights: We have identified 4 key features that affect the hospitality cancellation rate:
 1. **Groups and TA/TO have higher cancellation rates** as these agents buy bulk tickets upfront, meanwhile hotel provides more flexible cancellation  policies in contract. The over pre-order and low opportunity cost lead to a higher cancellation rate.
-<img width="462" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/f19130e6-3bf6-4ddf-b6d5-f7325c9a8603">
+  <img width="462" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/f19130e6-3bf6-4ddf-b6d5-f7325c9a8603">
 
 2. **No-Deposit & Refundable deposit type has a lower cancellation rate** as cheaper offers will normally have a no-refund policy. As the price is relatively low, the opportunity cost for clients to cancel isacceptable,  which leads to a higher cancellation rate.
-<img width="246" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/03bf3e3a-fdb2-4d68-a395-355e4199b2da">
+  <img width="275" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/477a7e93-421a-4666-8a37-57747990a0e4">
 
 3. **The length of lead time is positively related to the cancellation rate** as it is difficult to predict future travel.
-<img width="583" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/e224ebcb-ea42-485c-9352-7810a9e45ef7">
+  <img width="583" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/e224ebcb-ea42-485c-9352-7810a9e45ef7">
 
 4. **Domestic clients have a higher cancellation rate** as they are more flexible with travel plans and the travel costs are relatively low compared to international clients.
-<img width="334" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/ed6d44cd-3543-4492-8dab-ea128226bc1c">
+  <img width="334" alt="image" src="https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/assets/121594845/ed6d44cd-3543-4492-8dab-ea128226bc1c">
 
 ## Recommendations
 Based on our insights, we have provided several recommendations to reach our intended goal in accurately predicting cancellation rates so as to manage overbooking and optimizing operation strategy through precision targeting at customers:
