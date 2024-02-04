@@ -7,6 +7,8 @@ Team Members:
 - Reina Chen
 - Kitae Kim
 
+Affiliation: The University of Chicago
+
 The README contains only a brief overview of our goals, investigation process, analysis, and recommendations.
 
 For detailed documentation/analysis/findings, please refer to our [final presentation](https://github.com/sallylee0801/Hospitality-Cancellation-Rate-Prediction/blob/main/Hospitality%20Cancellation%20Rate%20Prediction.pdf).
